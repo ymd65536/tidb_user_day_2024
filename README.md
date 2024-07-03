@@ -7,3 +7,7 @@ TiDB User Day 2024で聞いた内容のメモ、資料などを記録してお�
 ## Titanの概要
 
 [タイタンの概要](https://docs.pingcap.com/ja/tidb/stable/titan-overview)
+
+## Voicyさんの例
+
+[音声プラットフォームVoicyがTiDB Cloudを本番運用してみた結果](https://speakerdeck.com/yamagenii/yin-sheng-puratutohuomuvoicygatidb-cloudwoben-fan-yun-yong-sitemitajie-guo)
